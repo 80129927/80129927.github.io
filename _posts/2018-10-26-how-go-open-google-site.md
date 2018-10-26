@@ -2,7 +2,7 @@
 layout:     post
 title:      关于科学上网那点事
 subtitle:   科学上网
-date:       2018-10-24
+date:       2018-10-26
 author:     Kytor
 catalog: true
 tags:

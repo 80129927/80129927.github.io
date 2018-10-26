@@ -2,7 +2,7 @@
 layout:     post
 title:      魅族手机安装google play的方法
 subtitle:   手机技巧
-date:       2018-10-24
+date:       2018-10-26
 author:     Kytor
 catalog: true
 tags:
